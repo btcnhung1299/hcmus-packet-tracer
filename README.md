@@ -1,4 +1,4 @@
-# packet-tracer
+# Packet Tracer
 
 The project demonstrates how to use **Cisco Packet Tracer** to perform:
 - Subnetting
